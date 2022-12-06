@@ -1,0 +1,5 @@
+{
+	"token": "INSERT_YOUR_TOKEN",
+	"prefix": "/",
+	"state": ["available", "idle", "dnd", "invisible"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "JellyWelly",
+  "version": "1.0.0",
+  "main": "JellyBot.js",
+  "scripts": {
+    "runAplication": "JellyBot.js node"
+  },
+  "keywords": [],
+  "author": "GoodKid",
+  "license": "ISC",
+  "description": "This is my first discord bot",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
